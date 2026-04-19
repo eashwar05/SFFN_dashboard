@@ -45,8 +45,8 @@ desktop.ini
 # It is standard practice to ignore large datasets and model weights.
 # However, since your OpenVINO model is only ~6.6MB, you can comment 
 # the lines below out if you want to include them in the repo.
-# sffn_int8.bin
-# sffn_int8.xml
+sffn_int8.bin
+sffn_int8.xml
 
 # Project-specific Data
 datasets/
