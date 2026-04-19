@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+torch>=2.4.0
+timm
+facenet-pytorch
+Pillow
+matplotlib
+openvino>=2024.0.0
+
